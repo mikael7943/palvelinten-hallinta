@@ -14,11 +14,12 @@ Ansible
 
 
 
+
 a)	SSH:n saa asennettua komennolla sudo apt-get install opensshserver
 ja näin pääsee kirjautumaan: ssh käyttäjänimi@localhost
 
 b)	avainparin saa luotua ssh-keygen komennolla ja sen saa kopioitua hostille komennolla ssh-copy-id localhost.
 
-c) tehtävä C:n loppunäkymä löytyy 
+c) tehtävä C:n loppunäkymä löytyy erillisenä tiedostona, sillä en osannut liittää sitä tähän :D
 
 
