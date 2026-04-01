@@ -19,7 +19,6 @@ ja näin pääsee kirjautumaan: ssh käyttäjänimi@localhost
 
 b)	avainparin saa luotua ssh-keygen komennolla ja sen saa kopioitua hostille komennolla ssh-copy-id localhost.
 
-c) 
+c) tehtävä C:n loppunäkymä löytyy 
 
-![image alt](https://github.com/mikael7943/palvelinten-hallinta/blob/main/N%C3%A4ytt%C3%B6kuva%202026-04-01%20032234.png?raw=true)
 
