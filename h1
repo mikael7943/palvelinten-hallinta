@@ -1,0 +1,21 @@
+h1
+
+SSH
+-Ssh on verkkoprotokolla, joka mahdollistaa turvallisen ja salatun etäyhteyden muodostamisen.
+-Käytetään etähallintaan.
+-avainparilla voi muodostaa yhteyden ilman salasanaa.
+-Onko SSH käytetyin etähallinnan muoto?
+
+Ansible
+-Ansible on konfiguroinnin managerointi työkalu, joka toimii SSH:n kautta.
+-orjakone vaatii SSH damonin ja pythonin, jotta ansible toimii
+
+
+
+
+
+a)	SSH:n saa asennettua komennolla sudo apt-get install opensshserver
+ja näin pääsee kirjautumaan: ssh käyttäjänimi@localhost
+
+b)	avainparin saa luotua ssh-keygen komennolla ja sen saa kopioitua hostille komennolla ssh-copy-id localhost.
+
