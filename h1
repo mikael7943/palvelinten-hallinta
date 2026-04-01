@@ -19,3 +19,4 @@ ja näin pääsee kirjautumaan: ssh käyttäjänimi@localhost
 
 b)	avainparin saa luotua ssh-keygen komennolla ja sen saa kopioitua hostille komennolla ssh-copy-id localhost.
 
+c) tehtävästä C screenshotti jossain täällä jos osaan lisätä :D
