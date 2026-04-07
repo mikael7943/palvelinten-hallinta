@@ -49,7 +49,14 @@ c)
 
 * Vielä viimeinen testaus toimiiko hello world printtaus
 
-![image](
+![image](https://github.com/mikael7943/palvelinten-hallinta/blob/f893cbc46eddb949fffe599bd754a951da5f495c/N%C3%A4ytt%C3%B6kuva%202026-04-07%20174501.png)
+
+
+
+Lähteet:
+
+Karvinen 2026: SSH public key - Login without password
+Karvinen 2026: Karvinen 2026: Hello Ansible
 
    
   
