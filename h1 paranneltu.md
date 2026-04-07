@@ -41,6 +41,7 @@ c)
   site.yml
   
 * tässä puunäkymä tiedostoista
+![image](https://github.com/mikael7943/palvelinten-hallinta/blob/53f607a557b7b63e9767207a988c37a4e7ae17ee/N%C3%A4ytt%C3%B6kuva%202026-04-07%20173559.png)
 
    
   
