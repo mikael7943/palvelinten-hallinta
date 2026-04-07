@@ -25,4 +25,5 @@ a)
   b)
   * Mikäli haluat kirjautua SSH:n kautta ilman salasanaa voit lisätä avainparin komennolla ssh-keygen
   * Avainparin saa liitettyä hostiin komennolla ssh-copy-id localhost
-
+    ![image](https://github.com/mikael7943/palvelinten-hallinta/blob/79dae6e357611d11149b4220ea5dbcb8eef7a382/N%C3%A4ytt%C3%B6kuva%202026-04-07%20172546.png)
+    
