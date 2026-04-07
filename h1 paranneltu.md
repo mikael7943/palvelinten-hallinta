@@ -6,7 +6,7 @@ SSh
 * Käytetään laitteiden etähallintaan.
 * Avainparilla voi muodostaa etäyhteyden ilman salasanaa, tämä nopeuttaa työskentelyä.
 * SSH salaa koko liikenteen.
-* 
+  
 
 Ansible
 * Ansible on automaatiotyökalu, jonka avulla palvelimien konfigurointi ja hallinta on tehokkaampaa.
@@ -55,8 +55,10 @@ c)
 
 Lähteet:
 
-Karvinen 2026: SSH public key - Login without password
-Karvinen 2026: Karvinen 2026: Hello Ansible
+Karvinen 2026: SSH public key - Login without password https://terokarvinen.com/ssh-public-key-login-without-password/
+
+
+Karvinen 2026: Karvinen 2026: Hello Ansible https://terokarvinen.com/hello-ansible/
 
    
   
