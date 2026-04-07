@@ -21,5 +21,8 @@ a)
 
   ![image alt](https://github.com/mikael7943/palvelinten-hallinta/blob/2c5a7f1f19604740abe5957613c6a148f836d28b/N%C3%A4ytt%C3%B6kuva%202026-04-07%20171912.png)
 
-  
+
+  b)
+  * Mikäli haluat kirjautua SSH:n kautta ilman salasanaa voit lisätä avainparin komennolla ssh-keygen
+  * Avainparin saa liitettyä hostiin komennolla ssh-copy-id localhost
 
