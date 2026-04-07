@@ -40,7 +40,7 @@ c)
   main.yml
   site.yml
 
-![image](  
+![image](https://github.com/mikael7943/palvelinten-hallinta/blob/0ea2aff9112ebef0fd7a1259dbd5e07da9fd0052/N%C3%A4ytt%C3%B6kuva%202026-04-01%20031944.png)
   
 * tässä puunäkymä tiedostoista
 ![image](https://github.com/mikael7943/palvelinten-hallinta/blob/53f607a557b7b63e9767207a988c37a4e7ae17ee/N%C3%A4ytt%C3%B6kuva%202026-04-07%20173559.png)
