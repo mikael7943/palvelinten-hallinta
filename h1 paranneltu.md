@@ -33,7 +33,7 @@ c)
 * Seuraavaksi käytän ansiblea ja printtaan ssh yhteyden kautta hello world tekstin.
 * Aluksi latasin asiblen apt-get komennolla.
 * Tämän jälkeen loin hakemiston ansible1, jonne luon muut vaadittavat tekstitiedostot.
-* Loin neljä eri tekstitiedostoa, joihin kirjoitin koodia.
+* Loin neljä eri tekstitiedostoa, joihin kirjoitin yaml-koodia.
 
   ansible.cfg
   hosts.ini
