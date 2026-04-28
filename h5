@@ -13,6 +13,13 @@ Aloitin tehtävän luomalla githubiin uuden varaston nimeltä sunshine.
 ![image](
 
 
-Seuraavaksi linkitin julkisen ssh avaimeni varastoon, jotta voin puskea virtuaalikoneeltani tavaraa githubiin.
+Seuraavaksi linkitin julkisen ssh avaimeni varastoon.
+
+
+b) 
+
+Seuraavaksi kloonasin sunshine.git varaston virtuaalitietokoneelleni.
+
+![image](
 
 
